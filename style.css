@@ -1,0 +1,96 @@
+*{
+    background-color: rgba(225, 228, 231, 0.829);
+    color: aliceblue;
+}
+#aa>h1{
+    background-color: rgb(255, 255, 255); 
+    width: 95%;
+    margin-left: 25px;
+    height: 60px;
+    color: rgb(114, 117, 121);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#a{
+    background-color: rgba(39, 127, 209, 0.9);
+    width: 95%;
+    margin-left: 25px;
+    height: 30px;
+}
+#b{
+    background-color: rgba(39, 127, 209, 0.8);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+    margin-top: -3px;
+}
+#c{
+    background-color: rgba(39, 127, 209, 0.7);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+    margin-top: -2px;
+}
+#d{
+    background-color: rgba(39, 127, 209, 0.6);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+    margin-top: -1px;
+}
+#e{
+    background-color: rgba(39, 127, 209, 0.5);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+}
+#f{
+    background-color: rgba(39, 127, 209, 0.4);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+}
+#g{
+    background-color: rgba(39, 127, 209, 0.3);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+}
+#h{
+    background-color: rgba(42, 128, 30, 0.6);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+}
+#i{
+    background-color: rgba(230, 37, 230, 0.3);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+}
+#j{
+    background-color: rgba(230, 37, 230, 0.4);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+}
+#k{
+    background-color: rgba(230, 37, 230, 0.5);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+}
+#l{
+    background-color: rgba(230, 37, 230, 0.6);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+}
+#m{
+    background-color: rgba(230, 37, 230, 0.7);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+    margin-top: -1px;
+}
+#n{
+    background-color: rgba(230, 37, 230, 0.8);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+    margin-top:-2px;
+}
+#o{
+    background-color: rgba(230, 37, 230, 0.9);
+    width: 95%;
+    margin-left: 25px; height: 30px;
+    margin-top: -3px;
+}
