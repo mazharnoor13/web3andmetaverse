@@ -1,96 +1,89 @@
-*{
-    background-color: rgba(225, 228, 231, 0.829);
-    color: aliceblue;
-}
-#aa>h1{
-    background-color: rgb(255, 255, 255); 
-    width: 95%;
-    margin-left: 25px;
-    height: 60px;
-    color: rgb(114, 117, 121);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+* {
+ margin: 20px;
+ padding: 80px, 1px;
+  box-sizing: border-box;
 }
 
-#a{
-    background-color: rgba(39, 127, 209, 0.9);
-    width: 95%;
-    margin-left: 25px;
-    height: 30px;
+.topnav {
+  background-color: #333;
+  overflow: hidden;
 }
-#b{
-    background-color: rgba(39, 127, 209, 0.8);
-    width: 95%;
-    margin-left: 25px; height: 30px;
-    margin-top: -3px;
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 1px;
+  text-decoration: none;
+  font-size: 30px;
 }
-#c{
-    background-color: rgba(39, 127, 209, 0.7);
-    width: 95%;
-    margin-left: 25px; height: 30px;
-    margin-top: -2px;
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
 }
-#d{
-    background-color: rgba(39, 127, 209, 0.6);
-    width: 95%;
-    margin-left: 25px; height: 30px;
-    margin-top: -1px;
+
+.topnav a.active {
+  background-color: #e75511;
+  color: white;
 }
-#e{
-    background-color: rgba(39, 127, 209, 0.5);
-    width: 95%;
-    margin-left: 25px; height: 30px;
+
+.text h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #e75511;
+
 }
-#f{
-    background-color: rgba(39, 127, 209, 0.4);
-    width: 95%;
-    margin-left: 25px; height: 30px;
+
+.text h4 {
+  color: #33221a;
+  font-style: oblique;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
 }
-#g{
-    background-color: rgba(39, 127, 209, 0.3);
-    width: 95%;
-    margin-left: 25px; height: 30px;
+.text ul{
+  font-size: 20px;
 }
-#h{
-    background-color: rgba(42, 128, 30, 0.6);
-    width: 95%;
-    margin-left: 25px; height: 30px;
+
+.footer {
+  margin-top: 150px;
+  width: 100%;
+  padding: 100px, 15%;
+  background: #333;
+  color: #efefef;
+  display: flex;
 }
-#i{
-    background-color: rgba(230, 37, 230, 0.3);
-    width: 95%;
-    margin-left: 25px; height: 30px;
+.footer{
+  text-align: center;
 }
-#j{
-    background-color: rgba(230, 37, 230, 0.4);
-    width: 95%;
-    margin-left: 25px; height: 30px;
+.col-2{
+  flex-grow: 2;
 }
-#k{
-    background-color: rgba(230, 37, 230, 0.5);
-    width: 95%;
-    margin-left: 25px; height: 30px;
+.footer div h3{
+  font-weight: 300;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
 }
-#l{
-    background-color: rgba(230, 37, 230, 0.6);
-    width: 95%;
-    margin-left: 25px; height: 30px;
+.col-1 a{
+  display: block;
+  text-decoration: none;
+  color: #efefef;
+  margin-bottom: 5px;
 }
-#m{
-    background-color: rgba(230, 37, 230, 0.7);
-    width: 95%;
-    margin-left: 25px; height: 30px;
-    margin-top: -1px;
+form input{
+  width: 250px;
+  height: 40px;
+  border-radius: 4px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  outline: none;
+  border: none; 
 }
-#n{
-    background-color: rgba(230, 37, 230, 0.8);
-    width: 95%;
-    margin-left: 25px; height: 30px;
-    margin-top:-2px;
-}
-#o{
-    background-color: rgba(230, 37, 230, 0.9);
-    width: 95%;
-    margin-left: 25px; height: 30px;
-    margin-top: -3px;
+form button{
+  background-color: transparent;
+  border: 2px solid #ffff;
+  color: #ffff;
+  border-radius: 30px;
+  font-size: 15px;
+  cursor: pointer;
 }
